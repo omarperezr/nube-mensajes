@@ -1,14 +1,5 @@
 {
   "mensajes": [
-    { "texto": "¡Guau! Hoy es un gran día para jugar en el jardín." },
-    { "texto": "¿Sabías que te quiero mucho? ¡Guau guau!" },
-    { "texto": "Hoy soñé con croquetas gigantes que caían del cielo." },
-    { "texto": "El sol está perfecto para una siesta en el pasto." },
-    { "texto": "¡Perseguí mi cola toda la mañana y casi la atrapo!" },
-    { "texto": "Tú eres mi persona favorita en todo el mundo." },
     { "texto": "Mira lo que encontré en el jardín:", "imagen": "imagenes/hallazgo.png" },
-    { "texto": "Ladré a una mariposa. La mariposa ganó." },
-    { "texto": "Mi casita es pequeña pero mi corazón es enorme." },
-    { "texto": "¡Hoy me porté muy bien! Bueno... casi todo el día." }
   ]
 }
